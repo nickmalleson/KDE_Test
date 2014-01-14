@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20140113</CreaDate><CreaTime>09282900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\KernelDensity" Date="20140113" Time="092829">KernelDensity crime_2013_02 NONE Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02 50 1000 SQUARE_KILOMETERS</Process></lineage></DataProperties></Esri></metadata>

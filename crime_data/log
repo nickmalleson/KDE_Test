@@ -1,0 +1,9 @@
+20140113 927   0     7     0geonsm Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_03 = POINTDENSITY(crime_2013_03, NONE, 50.0, KERNEL, 1000.0, 500.0)
+20140113 927   0     6     0geonsm Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02 = POINTDENSITY(crime_2013_02, NONE, 50.0, KERNEL, 1000.0, 500.0)
+20140113 928   0     9     0geonsm Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02 = POINTDENSITY(crime_2013_02, NONE, 50.0, KERNEL, 1000.0, 1000.0)
+20140113 928   0     8     0geonsm Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_03 = POINTDENSITY(crime_2013_03, NONE, 50.0, KERNEL, 1000.0, 1000.0)
+20140113 953   0     1     0geonsm Z:\mapping\projects\B6B95D~1\COC5MM~S\contour_2013_02.shp = CONTOUR(Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02,  I
+20140113 954   0     1     0geonsm Z:\mapping\projects\B6B95D~1\COC5MM~S\contour_2013_02.shp = CONTOUR(Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02,  I
+20140113 956   0     1     0geonsm Z:\mapping\projects\B6B95D~1\COC5MM~S\contour_2013_02.shp = CONTOUR(Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02,  I
+20140113 957   0     0     0geonsm Z:\mapping\projects\B6B95D~1\COC5MM~S\contour_2013_02.shp = CONTOUR(Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_02,  I
+20140113 959   0     0     0geonsm Z:\mapping\projects\B6B95D~1\COC5MM~S\contour_2013_03.shp = CONTOUR(Z:\mapping\projects\blog_kde_test\crime_data\kde_2013_03,  I
